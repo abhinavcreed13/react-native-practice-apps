@@ -2,7 +2,7 @@
 
 ## iOS 13
 
-![Image description](imgs/ios-1.PNG) ![Image description](imgs/ios-2.png)
+![Image description](imgs/ios-1.PNG) ![Image description](imgs/ios-2.PNG)
 
 ## Android 9
 
