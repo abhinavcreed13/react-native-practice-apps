@@ -2,7 +2,7 @@
 
 ## iOS 13 (iPhone 7)
 
-![Image description](imgs/ios-1.PNG){:height="500px" width="500px"} ![Image description](imgs/ios-2.PNG)
+![Image description](imgs/ios-1.PNG) ![Image description](imgs/ios-2.PNG)
 
 ## Android 9 (Pixel 3)
 
