@@ -18,6 +18,7 @@ const GoalInput = props => {
       <View style={styles.inputContainer}>
         <TextInput
           placeholder="Course Goals"
+          placeholderTextColor = "#efefef"
           style={styles.input}
           onChangeText={goalInputHandler}
           value={enteredGoal}
