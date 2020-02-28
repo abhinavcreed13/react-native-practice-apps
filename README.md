@@ -17,7 +17,7 @@ Practice Apps for improving React Native skills
 
 - Expo Docs: https://docs.expo.io/versions/latest/
 
-## React Native Debugging
+### React Native Debugging
 
 - Expo Debugging Docs: https://docs.expo.io/versions/v34.0.0/workflow/debugging/
 
