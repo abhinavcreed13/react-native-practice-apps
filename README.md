@@ -1,4 +1,4 @@
-# react-native-practice-apps
+# React Native Reference Git 
 Practice Apps for improving React Native skills
 
 ## Resources
