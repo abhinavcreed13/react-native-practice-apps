@@ -6,4 +6,5 @@
 
 ## iOS 13 (iPhone 7)
 
-![Image description](imgs/ios-1.PNG) ![Image description](imgs/ios-2.PNG)
+<img src="https://github.com/abhinavcreed13/react-native-practice-apps/blob/master/01-rn-basic-goals-app/imgs/ios-1.PNG" width="300"> 
+<img src="https://github.com/abhinavcreed13/react-native-practice-apps/blob/master/01-rn-basic-goals-app/imgs/ios-2.PNG" width="300">
