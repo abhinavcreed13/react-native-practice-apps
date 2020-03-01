@@ -16,6 +16,10 @@
     - Using network images
 - Nested ``Text`` components
     - Styles passed down to nested ``Text`` components (!!exception!!)
+- Building Custom Button component
+    - ``TouchableOpacity`` component
+    - Adding custom icons - @expo/vector-icons
+        - List of expo vector icons: https://expo.github.io/vector-icons/
 
 ### View vs Text - Summary
 
