@@ -20,6 +20,14 @@
     - ``TouchableOpacity`` component
     - Adding custom icons - @expo/vector-icons
         - List of expo vector icons: https://expo.github.io/vector-icons/
+- UI Library
+    - NativeBase: https://docs.nativebase.io/
+- ``ScrollView`` for list
+    - ``contentContainerStyle`` property
+    - ``flexGrow`` property
+- ``FlatList`` for list
+    - ``contentContainerStyle`` property
+    - ``renderItem`` property
 
 ### View vs Text - Summary
 
