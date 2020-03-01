@@ -19,6 +19,6 @@
 - Font styling approach - components/default sheets
 
 - Adding local images
-    - Using require with <Image/> component
+    - Using require with ``Image`` component
 
 ## Screenshots
