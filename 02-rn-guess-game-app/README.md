@@ -29,7 +29,6 @@ A ``<View>`` can hold as many child components as you need and it also works wit
 
 If you need scrolling, you should consider using a ``<ScrollView>`` - you could wrap your ``<View>`` with it or replace your ``<View>`` (that depends on your layout and styling). Please note, that due to its scrollable nature, Flexbox works a bit differently on a ``<ScrollView>``: https://stackoverflow.com/questions/46805135/scrollview-with-flex-1-makes-it-un-scrollable
 
----
 ``<Text>`` is also super important. As its name suggests, you use it for outputting text (of any length). You can also nest other ``<Text>`` components into a ``<Text>``. Actually, you can also have nested ``<View>s`` inside of a ``<Text>`` but that comes with certain caveats you should watch out for: https://github.com/facebook/react-native/commit/a2a03bc68ba062a96a6971d3791d291f49794dfd
 
 Unlike ``<View>``, ``<Text>`` does NOT use Flexbox for organizing its content (i.e. the text or nested components). Instead, text inside of ``<Text>`` automatically fills a line as you would expect it and wraps into a new line if the text is too long for the available ``<Text>`` width.
