@@ -57,4 +57,6 @@ Also important: When adding styles to a ``<Text>`` (no matter if that happens vi
 
 This differs from the behavior of ``<View>`` (or actually any other component - ``<Text>`` is the exception): There, any styles are only applied to the component to which you add them. Styles are never shared with any child component!
 
-## Screenshots
+## App Video
+
+[![React Native Guess Game App](https://res.cloudinary.com/marcomontalbano/image/upload/v1583109313/video_to_markdown/images/youtube--Vmn7ikxFSNk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Vmn7ikxFSNk "React Native Guess Game App")
