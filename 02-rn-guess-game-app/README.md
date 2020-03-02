@@ -29,6 +29,8 @@
     - ``contentContainerStyle`` property
     - ``renderItem`` property
 
+![concepts](imgs/concepts.png)
+
 ### View vs Text - Summary
 
 ``<Text>`` and ``<View>`` are probably THE most important/ most-used components built into React Native.
@@ -59,4 +61,4 @@ This differs from the behavior of ``<View>`` (or actually any other component - 
 
 ## App Video
 
-[![React Native Guess Game App](https://res.cloudinary.com/marcomontalbano/image/upload/v1583109313/video_to_markdown/images/youtube--Vmn7ikxFSNk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Vmn7ikxFSNk "React Native Guess Game App")
+[![React Native Guess Game App](imgs/screen.png)](https://youtu.be/Vmn7ikxFSNk "React Native Guess Game App")
