@@ -32,7 +32,8 @@
 ![concepts](imgs/concepts.png)
 ---
 - ``Dimensions`` API
-    - ``Dimensions.get('window').width``
+    - Get Width: ``Dimensions.get('window').width``
+    - API with `if` conditions
 
 ### View vs Text - Summary
 
