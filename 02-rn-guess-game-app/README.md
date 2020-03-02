@@ -30,6 +30,9 @@
     - ``renderItem`` property
 
 ![concepts](imgs/concepts.png)
+---
+- ``Dimensions`` API
+    - ``Dimensions.get('window').width``
 
 ### View vs Text - Summary
 
