@@ -61,4 +61,6 @@ This differs from the behavior of ``<View>`` (or actually any other component - 
 
 ## App Video
 
+Click on screenshot for video
+
 [![React Native Guess Game App](imgs/screen.png)](https://youtu.be/Vmn7ikxFSNk "React Native Guess Game App")
