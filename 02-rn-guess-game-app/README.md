@@ -1,6 +1,6 @@
 # React Native Guess Game App
 
-## Concepts
+## Concepts (Cheatsheet)
 
 - Working with different components
 - Working on layouts
@@ -31,9 +31,15 @@
 
 ![concepts](imgs/concepts.png)
 ---
+### Responsive + Adaptive UI
+
 - ``Dimensions`` API
     - Get Width: ``Dimensions.get('window').width``
     - API with `if` conditions
+    - Listening to orientation changes: ``Dimensions.addEventListener('change',function)``
+- ``KeyboardAvoidingView`` component
+    - ``behavior="position"``
+    - ``keyboardVerticalOffset``
 
 ### View vs Text - Summary
 
