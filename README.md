@@ -23,6 +23,12 @@ Practice Apps for improving React Native skills
 
 - Chrome Dev Tools Docs: https://developers.google.com/web/tools/chrome-devtools/
 
+### React Native Adaptive UI
+
+- Dimensions API - Official Docs: https://facebook.github.io/react-native/docs/dimensions#docsNav
+
+- Platform-specific Code - Official Docs: https://facebook.github.io/react-native/docs/platform-specific-code
+
 ---
 ### React Native Guess Game App
 
