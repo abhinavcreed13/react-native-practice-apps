@@ -80,3 +80,9 @@ Practice Apps for improving React Native skills
     - ``select`` method - ios, android keys
     - Platform-specific files (.android, .ios)
 - ``SafeAreaView`` component
+
+---
+### React Native Meals App
+
+#### Concepts (Cheatsheet)
+
