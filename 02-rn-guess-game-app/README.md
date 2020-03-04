@@ -1,5 +1,11 @@
 # React Native Guess Game App
 
+## App Video
+
+Click on screenshot for video
+
+[![React Native Guess Game App](imgs/screen.png)](https://youtu.be/Vmn7ikxFSNk "React Native Guess Game App")
+
 ### View vs Text - Summary
 
 ``<Text>`` and ``<View>`` are probably THE most important/ most-used components built into React Native.
@@ -27,9 +33,3 @@ Example:
 Also important: When adding styles to a ``<Text>`` (no matter if that happens via inline styles or a StyleSheet object), the styles will actually be shared with any nested ``<Text>`` components.
 
 This differs from the behavior of ``<View>`` (or actually any other component - ``<Text>`` is the exception): There, any styles are only applied to the component to which you add them. Styles are never shared with any child component!
-
-## App Video
-
-Click on screenshot for video
-
-[![React Native Guess Game App](imgs/screen.png)](https://youtu.be/Vmn7ikxFSNk "React Native Guess Game App")
