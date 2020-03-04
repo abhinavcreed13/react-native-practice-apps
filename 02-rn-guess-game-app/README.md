@@ -1,46 +1,5 @@
 # React Native Guess Game App
 
-## Concepts (Cheatsheet)
-
-- Working with different components
-- Working on layouts
-- Styling Card component
-- Color theming with constants
-- ``TouchableWithoutFeedback``, ``Alert`` components usage
-- Switching between Multiple screens
-- Adding custom fonts
-- Font styling approach - components/default sheets
-- Adding local images
-    - Using require with ``Image`` component
-    - Styling images
-    - Using network images
-- Nested ``Text`` components
-    - Styles passed down to nested ``Text`` components (!!exception!!)
-- Building Custom Button component
-    - ``TouchableOpacity`` component
-    - Adding custom icons - @expo/vector-icons
-        - List of expo vector icons: https://expo.github.io/vector-icons/
-- UI Library
-    - NativeBase: https://docs.nativebase.io/
-- ``ScrollView`` for list
-    - ``contentContainerStyle`` property
-    - ``flexGrow`` property
-- ``FlatList`` for list
-    - ``contentContainerStyle`` property
-    - ``renderItem`` property
-
-![concepts](imgs/concepts.png)
----
-### Responsive + Adaptive UI
-
-- ``Dimensions`` API
-    - Get Width: ``Dimensions.get('window').width``
-    - API with `if` conditions
-    - Listening to orientation changes: ``Dimensions.addEventListener('change',function)``
-- ``KeyboardAvoidingView`` component
-    - ``behavior="position"``
-    - ``keyboardVerticalOffset``
-
 ### View vs Text - Summary
 
 ``<Text>`` and ``<View>`` are probably THE most important/ most-used components built into React Native.
