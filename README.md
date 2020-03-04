@@ -23,6 +23,7 @@ Practice Apps for improving React Native skills
 
 - Chrome Dev Tools Docs: https://developers.google.com/web/tools/chrome-devtools/
 
+---
 ### React Native Guess Game App
 
 #### Concepts (Cheatsheet)
