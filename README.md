@@ -90,3 +90,16 @@ Practice Apps for improving React Native skills
 
 #### Concepts
 
+- React Navigation npm package
+- Creating Stack Navigator 
+    - ``createStackNavigator`` from ``react-navigation-stack``
+    - ``createAppContainer`` from ``react-navigation``
+- Navigation between Stacks
+    - ``props.navigation.navigate({ routeName: "CategoryMeals" });``
+    - ``push`` method to push different as well as same screen
+    - Going Back
+        - ``props.navigation.goBack();`` 
+        - ``props.navigation.pop();`` 
+        - ``props.navigation.popToTop();``
+    - Replacing stack screen: ``props.navigation.replace("CategoryMeals" );``
+- 
