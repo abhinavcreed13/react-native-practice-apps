@@ -32,7 +32,7 @@ Practice Apps for improving React Native skills
 ---
 ### React Native Guess Game App
 
-#### Concepts (Cheatsheet)
+#### Concepts
 
 - Working with different components
 - Working on layouts
@@ -84,5 +84,5 @@ Practice Apps for improving React Native skills
 ---
 ### React Native Meals App
 
-#### Concepts (Cheatsheet)
+#### Concepts
 
