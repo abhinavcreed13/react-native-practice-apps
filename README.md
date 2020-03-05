@@ -102,4 +102,14 @@ Practice Apps for improving React Native skills
         - ``props.navigation.pop();`` 
         - ``props.navigation.popToTop();``
     - Replacing stack screen: ``props.navigation.replace("CategoryMeals" );``
-- 
+- ``FlatList`` with ``numColumns`` property - for gridView
+- ``TouchableOpacity`` for click events
+- ``navigationOptions`` property
+    - ``headerTitle``, ``headerStyle``, ``headerTintColor``
+    - Can be a function for dynamic properties
+    - ``defaultNavigationOptions`` in ``createStackNavigator``
+- ``navigate`` method ``params`` for passing data across stacks
+    - Fetch param: ``props.navigation.getParam('categoryId')``
+- ``react-native-screens`` npm package
+    - ``enableScreens`` method
+
