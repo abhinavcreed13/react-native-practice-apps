@@ -91,6 +91,8 @@ Practice Apps for improving React Native skills
 #### Concepts
 
 - React Navigation npm package
+
+##### Stack Navigator
 - Creating Stack Navigator 
     - ``createStackNavigator`` from ``react-navigation-stack``
     - ``createAppContainer`` from ``react-navigation``
@@ -112,4 +114,12 @@ Practice Apps for improving React Native skills
     - Fetch param: ``props.navigation.getParam('categoryId')``
 - ``react-native-screens`` npm package
     - ``enableScreens`` method
+- ``ImageBackground`` component
+- ``react-navigation-header-buttons`` npm package for adding buttons on header
+    - ``HeaderButtons``, ``Item`` component
+    - ``HeaderButtonComponent`` property
+##### Tab Navigator
+- Creating Tab Navigator
+    - ``import { createBottomTabNavigator } from "react-navigation-tabs";``
+    - ``tabBarOptions`` property
 
