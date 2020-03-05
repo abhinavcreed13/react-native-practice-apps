@@ -124,4 +124,5 @@ Practice Apps for improving React Native skills
     - ``tabBarOptions`` property
         - ``activeTintColor``
     - Setting Icons: ``navigationOptions`` -> ``tabBarIcon``
+    - Setting Label: ``navigationOptions`` -> ``tabBarLabel``
 

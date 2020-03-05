@@ -50,6 +50,7 @@ const MealFavTabNavigator = createBottomTabNavigator(
     Favorites: {
       screen: FavoritesScreen,
       navigationOptions: {
+        tabBarLabel: 'Favorites!',
         tabBarIcon: tabInfo => {
           return (
             <Ionicons
