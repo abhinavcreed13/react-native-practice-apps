@@ -122,4 +122,6 @@ Practice Apps for improving React Native skills
 - Creating Tab Navigator
     - ``import { createBottomTabNavigator } from "react-navigation-tabs";``
     - ``tabBarOptions`` property
+        - ``activeTintColor``
+    - Setting Icons: ``navigationOptions`` -> ``tabBarIcon``
 
