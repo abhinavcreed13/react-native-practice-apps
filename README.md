@@ -125,4 +125,17 @@ Practice Apps for improving React Native skills
         - ``activeTintColor``
     - Setting Icons: ``navigationOptions`` -> ``tabBarIcon``
     - Setting Label: ``navigationOptions`` -> ``tabBarLabel``
-
+- Alternate Tab Navigator (Android)
+    - ``react-navigation-material-bottom-tabs`` npm package - android material tabs
+    - ``reat-native-paper`` npm package
+    - ``createMaterialBottomTabNavigator``
+    - ``tabBarColor`` with ``shifting`` effect
+    - ``barStyle`` property
+##### Menu Navigator
+- Create Side Navigator
+    - ``import { createDrawerNavigator } from 'react-navigation-drawer';``
+    - ``toggleDrawer`` side menu
+    - ``drawerLabel`` property
+    - ``contentOptions`` property - ``createDrawerNavigator``
+        - ``activeTintColor``
+        - ``labelStyle``
